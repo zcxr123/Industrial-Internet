@@ -1,0 +1,6 @@
+Flask==2.0.1
+mysql-connector-python==8.0.26
+psycopg2-binary==2.9.1  # 用于KingBase数据库连接
+python-dotenv==0.19.0
+requests==2.26.0
+gunicorn==20.1.0  # 用于生产环境部署
